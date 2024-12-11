@@ -8,6 +8,7 @@ You can access and modify these settings via the Interface Options menu or by us
 
 I hope it helps you build your trading and crafting empire more efficiently!
 
+## Functionality
 
 
 ### New Mailbox UI 
