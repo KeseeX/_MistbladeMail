@@ -1,4 +1,4 @@
-## MistbladeMail
+# MistbladeMail
 
 **MistbladeMail** is a powerful addon designed to simplify managing items between your alts on Sheilun/Mistblade. It creates an alt-friendly mailbox system that makes transferring materials between characters easier than ever. This addon is part of a larger suite of three combined addons — [MistbladeMail](https://github.com/KeseeX/_MistbladeMail), [MistbladeVendor](https://github.com/KeseeX/_MistbladeVendor), and [MistbladeFix](https://github.com/KeseeX/_MistbladeFix) — aimed at delivering a variety of quality-of-life features to the Mists of Pandaria (MoP) environment, addressing gaps that current addons fail to fill.
 
