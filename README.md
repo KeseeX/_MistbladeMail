@@ -1,9 +1,19 @@
 ## MistbladeMail
 
-MistbladeMail is an addon created to create alt friendly mailbox enviroment for alt management purposes. It allows You to quickly send all items of certain type (in total 8 types) to chosen characters. Mailist is contained in addon settings that u can acces from Interface Options or /mbmail command. Works for MoP 5.4.
+MistbladeMail is a powerful addon designed to streamline the process of managing items between your alternate characters (alts) in World of Warcraft. This addon creates an alt-friendly mailbox environment, making it easier to transfer bulk items to your chosen characters.
+
+With MistbladeMail, you can quickly send all items of a specific type—up to eight predefined categories—to selected recipients, saving you time and effort. The categories include various types of resources and materials such as lockboxes, ores, herbs, and more, which can be customized through the addon’s settings.
+
+You can access and modify these settings from the Interface Options menu or by using the /mbmail command directly in the chat. The addon is specifically designed to work with the Mists of Pandaria (MoP) 5.4 version of the game, ensuring compatibility with this expansion.
+
+Whether you're managing your crafting materials, resources, or other items across multiple characters, MistbladeMail offers an efficient solution for organizing and sending mail in World of Warcraft.
 
 
-### New Mailbox UI (8 categories + Open All button that opens all mails in a loop (C.O.D excluded), Open button that opens most recent mail (C.O.D included), and Delete button for deleting empty mails / mails with letter only
+
+### New Mailbox UI 
+
+
+8 categories + Open All button that opens all mails in a loop (C.O.D excluded), Open button that opens most recent mail (C.O.D included), and Delete button for deleting empty mails / mails with letter only
 
 ![image](https://github.com/user-attachments/assets/eb890e86-77b4-4753-9611-e299d77dad4a)
 
