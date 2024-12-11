@@ -18,7 +18,9 @@ I hope it will help you create trading/crafting empires.
 * Open button that opens most recent mail (C.O.D included)
 * Delete button for deleting empty mails / mails with letter only
 
+
 ![image](https://github.com/user-attachments/assets/eb890e86-77b4-4753-9611-e299d77dad4a)
+
 
 ### Options UI
 
