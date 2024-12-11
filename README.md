@@ -1,6 +1,6 @@
 ## MistbladeMail
 
-**MistbladeMail** is a powerful addon designed to simplify managing items between your alts on Sheilun/Mistblade. It creates an alt-friendly mailbox system that makes transferring materials between characters easier than ever. This addon is part of a larger suite of three combined addons—MistbladeMail, MistbladeVendor, and MistbladeFix—aimed at delivering a variety of quality-of-life features to the Mists of Pandaria (MoP) environment, addressing gaps that current addons fail to fill.
+**MistbladeMail** is a powerful addon designed to simplify managing items between your alts on Sheilun/Mistblade. It creates an alt-friendly mailbox system that makes transferring materials between characters easier than ever. This addon is part of a larger suite of three combined addons — [MistbladeMail](https://github.com/KeseeX/_MistbladeMail), [MistbladeVendor](https://github.com/KeseeX/_MistbladeVendor), and [MistbladeFix](https://github.com/KeseeX/_MistbladeFix) — aimed at delivering a variety of quality-of-life features to the Mists of Pandaria (MoP) environment, addressing gaps that current addons fail to fill.
 
 With MistbladeMail, you can quickly send all items of a specific type—up to eight predefined categories—to selected recipients, saving you both time and effort. These categories include common resources such as lockboxes, ores, herbs, and other materials that can easily clutter your bags.
 
@@ -38,7 +38,7 @@ I hope it helps you build your trading and crafting empire more efficiently!
 **Cloths** (cata + mop): Embersilk Cloth, Bolt of Embersilk Cloth, Windwool Cloth, Bolt of Windwool Cloth.
 
 
-**Enchanting Materials** (mop): Spirit Dust, Ethereal Shard, Mysterious Essence, Sha Crystal.
+**<span style="color:cyan">Enchanting Materials</span>** (mop): Spirit Dust, Ethereal Shard, Mysterious Essence, Sha Crystal.
 
 
 **Raw Ores** (mop): Ghost Iron Ore, Black Trillium Ore, White Trillium Ore.
@@ -53,5 +53,4 @@ I hope it helps you build your trading and crafting empire more efficiently!
 **Lockboxes** (wotkl + cata  +mop): Titanium Lockbox, Elementium Lockbox, Ghost Iron Lockbox.
 
 
-
-
+Created by Kesee
