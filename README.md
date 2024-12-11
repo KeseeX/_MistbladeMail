@@ -38,7 +38,7 @@ I hope it helps you build your trading and crafting empire more efficiently!
 **Cloths** (cata + mop): Embersilk Cloth, Bolt of Embersilk Cloth, Windwool Cloth, Bolt of Windwool Cloth.
 
 
-**<span style="color:cyan">Enchanting Materials</span>** (mop): Spirit Dust, Ethereal Shard, Mysterious Essence, Sha Crystal.
+![Enchanting Materials](https://img.shields.io/badge/Enchanting%20Materials-cyan?style=flat-square&color=00FFFF) (mop): Spirit Dust, Ethereal Shard, Mysterious Essence, Sha Crystal.
 
 
 **Raw Ores** (mop): Ghost Iron Ore, Black Trillium Ore, White Trillium Ore.
