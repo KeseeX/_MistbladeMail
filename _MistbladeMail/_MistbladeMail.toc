@@ -1,0 +1,10 @@
+## Interface: 50400
+## Title: _MistbladeMail
+## Version: 1.2
+## Notes: Alt-friendly mail enviroment
+## Author: Kesee
+## DefaultState: enabled
+## SavedVariables: _MistbladeMailSettings
+## LoadOnDemand: 0
+
+_MistbladeMail.lua
