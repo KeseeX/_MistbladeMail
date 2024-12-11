@@ -29,7 +29,7 @@ I hope it helps you build your trading and crafting empire more efficiently!
 ### Full List of item categories with listed items:
 
 
-<color=#ff0000ff>Motes and Spirits of Harmony</color> (account bound): "Mote of Harmony", "Spirit of Harmony".
+**Motes and Spirits of Harmony** (account bound): "Mote of Harmony", "Spirit of Harmony".
 
 
 **Cooking Materials** (world drops, farm items, timeless cooking mats, 300 stat food components + vendor items): "100 Year Soy Sauce", "Black Pepper", "Rice Flour", "Barley", "Farm Chicken", "Ginseng", "Instant Noodles", "Needle Mushrooms", "Pandaren Peach", "Red Beans", "Rice", "Silkworm Pupa", "Yak Milk", "Mushan Ribs", "Raw Crab Meat", "Raw Crocolisk Belly", "Raw Tiger Steak", "Raw Turtle Meat", "Viseclaw Meat", "Wildfowl Breast", "Green Cabbage", "Jade Squash", "Juicycrunch Carrot", "Mogu Pumpkin", "Pink Turnip", "Red Blossom Leek", "Scallions", "Striped Melon", "White Turnip", "Witchberries", "Emperor Salmon", "Giant Mantis Shrimp", "Golden Carp", "Jade Lungfish", "Jewel Danio", "Krasarang Paddlefish", "Redbelly Mandarin", "Reef Octopus", "Tiger Gourami", "Chun Tian Spring Rolls", "Black Pepper Ribs and Shrimp", "Mogu Fish Stew", "Steamed Crab Surprise", "Sea Mist Rice Noodles", "Mad Brewer's Breakfast", "Aged Balsamic Vinegar", "Aged Mogu'shan Cheese", "Ancient Pandaren Spices".
