@@ -29,28 +29,28 @@ I hope it helps you build your trading and crafting empire more efficiently!
 ### Full List of item categories with listed items:
 
 
-**Motes and Spirits of Harmony** (account bound): "Mote of Harmony", "Spirit of Harmony".
+**Motes and Spirits of Harmony** (account bound): Mote of Harmony, Spirit of Harmony.
 
 
-**Cooking Materials** (world drops, farm items, timeless cooking mats, 300 stat food components + vendor items): "100 Year Soy Sauce", "Black Pepper", "Rice Flour", "Barley", "Farm Chicken", "Ginseng", "Instant Noodles", "Needle Mushrooms", "Pandaren Peach", "Red Beans", "Rice", "Silkworm Pupa", "Yak Milk", "Mushan Ribs", "Raw Crab Meat", "Raw Crocolisk Belly", "Raw Tiger Steak", "Raw Turtle Meat", "Viseclaw Meat", "Wildfowl Breast", "Green Cabbage", "Jade Squash", "Juicycrunch Carrot", "Mogu Pumpkin", "Pink Turnip", "Red Blossom Leek", "Scallions", "Striped Melon", "White Turnip", "Witchberries", "Emperor Salmon", "Giant Mantis Shrimp", "Golden Carp", "Jade Lungfish", "Jewel Danio", "Krasarang Paddlefish", "Redbelly Mandarin", "Reef Octopus", "Tiger Gourami", "Chun Tian Spring Rolls", "Black Pepper Ribs and Shrimp", "Mogu Fish Stew", "Steamed Crab Surprise", "Sea Mist Rice Noodles", "Mad Brewer's Breakfast", "Aged Balsamic Vinegar", "Aged Mogu'shan Cheese", "Ancient Pandaren Spices".
+**Cooking Materials** (world drops, farm items, timeless cooking mats, 300 stat food components + vendor items): 100 Year Soy Sauce, Black Pepper, Rice Flour, Barley, Farm Chicken, Ginseng, Instant Noodles, Needle Mushrooms, Pandaren Peach, Red Beans, Rice, Silkworm Pupa, Yak Milk, Mushan Ribs, Raw Crab Meat, Raw Crocolisk Belly, Raw Tiger Steak, Raw Turtle Meat, Viseclaw Meat, Wildfowl Breast, Green Cabbage, Jade Squash, Juicycrunch Carrot, Mogu Pumpkin, Pink Turnip, Red Blossom Leek, Scallions, Striped Melon, White Turnip, Witchberries, Emperor Salmon, Giant Mantis Shrimp, Golden Carp, Jade Lungfish, Jewel Danio, Krasarang Paddlefish, Redbelly Mandarin, Reef Octopus, Tiger Gourami, Chun Tian Spring Rolls, Black Pepper Ribs and Shrimp, Mogu Fish Stew, Steamed Crab Surprise, Sea Mist Rice Noodles, Mad Brewer's Breakfast, Aged Balsamic Vinegar, Aged Mogu'shan Cheese, Ancient Pandaren Spices.
 
 
-**Cloths** (cata + mop): "Embersilk Cloth", "Bolt of Embersilk Cloth", "Windwool Cloth", "Bolt of Windwool Cloth".
+**Cloths** (cata + mop): Embersilk Cloth, Bolt of Embersilk Cloth, Windwool Cloth, Bolt of Windwool Cloth.
 
 
-**Enchanting Materials** (mop): "Spirit Dust", "Ethereal Shard", "Mysterious Essence", "Sha Crystal".
+**Enchanting Materials** (mop): Spirit Dust, Ethereal Shard, Mysterious Essence, Sha Crystal.
 
 
-**Raw Ores** (moo): "Ghost Iron Ore", "Black Trillium Ore", "White Trillium Ore".
+**Raw Ores** (mop): Ghost Iron Ore, Black Trillium Ore, White Trillium Ore.
 
 
-**Gems & Bars** (green + blue, mop): "Pandarian Garnet", "Roguestone", "Sunstone", "Tiger Opal", "Alexandrite", "Lapis Lazuli", "River's Heart", "Imperial Amethyst", "Primordial Ruby", "Sun's Radiance", "Vermilion Onyx", "Wild Jade", "Primal Diamond", "Ghost Iron Bar", "Kyparite", "Trillium Bar".
+**Gems & Bars** (green + blue, mop): Pandarian Garnet, Roguestone, Sunstone, Tiger Opal, Alexandrite, Lapis Lazuli, River's Heart, Imperial Amethyst, Primordial Ruby, Sun's Radiance, Vermilion Onyx, Wild Jade, Primal Diamond, Ghost Iron Bar, Kyparite, Trillium Bar.
 
 
-**Gathered Herbs** (mop, used also with inscription: starlight inks and book of glyph mastery): "Rain Poppy", "Snow Lily", "Green Tea Leaf", "Silkweed", "Fool's Cap", "Desecrated Herb", "Golden Lotus", "Starlight Ink", "Book of Glyph Mastery".
+**Gathered Herbs** (mop, used also with inscription: starlight inks and book of glyph mastery): Rain Poppy, Snow Lily, Green Tea Leaf, Silkweed, Fool's Cap, Desecrated Herb, Golden Lotus, Starlight Ink, Book of Glyph Mastery.
 
 
-**Lockboxes** (wotkl + cata  +mop): "Titanium Lockbox", "Elementium Lockbox", "Ghost Iron Lockbox".
+**Lockboxes** (wotkl + cata  +mop): Titanium Lockbox, Elementium Lockbox, Ghost Iron Lockbox.
 
 
 
