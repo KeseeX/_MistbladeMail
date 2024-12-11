@@ -3,11 +3,11 @@
 MistbladeMail is an addon created to create alt friendly mailbox enviroment for alt management purposes. It allows You to quickly send all items of certain type (in total 8 types) to chosen characters. Mailist is contained in addon settings that u can acces from Interface Options or /mbmail command. Works for MoP 5.4.
 
 
-New Mailbox UI (8 categories + Open All button that opens all mails in a loop (C.O.D excluded), Open button that opens most recent mail (C.O.D included), and Delete button for deleting empty mails / mails with letter only
+### New Mailbox UI (8 categories + Open All button that opens all mails in a loop (C.O.D excluded), Open button that opens most recent mail (C.O.D included), and Delete button for deleting empty mails / mails with letter only
 
 ![image](https://github.com/user-attachments/assets/eb890e86-77b4-4753-9611-e299d77dad4a)
 
-Options UI
+### Options UI
 
 ![image](https://github.com/user-attachments/assets/d62c9844-134c-4313-b9ab-c2ad9374279e)
 
@@ -29,13 +29,13 @@ Enchanting Materials (mop): "Spirit Dust", "Ethereal Shard", "Mysterious Essence
 Raw Ores (moo): "Ghost Iron Ore", "Black Trillium Ore", "White Trillium Ore".
 
 
-Gems & Bars (green + blue, mop): "Pandarian Garnet", "Roguestone", "Sunstone", "Tiger Opal", "Alexandrite", "Lapis Lazuli", "River's Heart", "Imperial Amethyst", "Primordial Ruby", "Sun's Radiance", "Vermilion Onyx", "Wild Jade", "Primal Diamond", "Ghost Iron Bar", "Kyparite", "Trillium Bar"
+Gems & Bars (green + blue, mop): "Pandarian Garnet", "Roguestone", "Sunstone", "Tiger Opal", "Alexandrite", "Lapis Lazuli", "River's Heart", "Imperial Amethyst", "Primordial Ruby", "Sun's Radiance", "Vermilion Onyx", "Wild Jade", "Primal Diamond", "Ghost Iron Bar", "Kyparite", "Trillium Bar".
 
 
-Gathered Herbs (mop, used also with inscription: starlight inks and book of glyph mastery): "Rain Poppy", "Snow Lily", "Green Tea Leaf", "Silkweed", "Fool's Cap", "Desecrated Herb", "Golden Lotus", "Starlight Ink", "Book of Glyph Mastery"
+Gathered Herbs (mop, used also with inscription: starlight inks and book of glyph mastery): "Rain Poppy", "Snow Lily", "Green Tea Leaf", "Silkweed", "Fool's Cap", "Desecrated Herb", "Golden Lotus", "Starlight Ink", "Book of Glyph Mastery".
 
 
-Lockboxes (wotkl + cata  +mop): "Titanium Lockbox", "Elementium Lockbox", "Ghost Iron Lockbox"
+Lockboxes (wotkl + cata  +mop): "Titanium Lockbox", "Elementium Lockbox", "Ghost Iron Lockbox".
 
 
 
